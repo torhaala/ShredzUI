@@ -1,6 +1,6 @@
 local cvars = {
-	enableFloatingCombatText = "0", --0 to only show default outgoing hits (no heals)
-	floatingCombatTextCombatDamage = "1", --1 to only show default outgoing hits (no heals)
+	--enableFloatingCombatText = "0", --0 to only show default outgoing hits (no heals)
+	--floatingCombatTextCombatDamage = "1", --1 to only show default outgoing hits (no heals)
 	clampTargetNameplateToScreen = "1",
 	nameplateOtherTopInset = "0.08",
 	nameplateLargeTopInset = "0.08",
