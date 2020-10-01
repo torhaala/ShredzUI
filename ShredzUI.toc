@@ -1,0 +1,14 @@
+## Interface: 70000
+## Author: Shredz
+## Title: |c00000002|r|cff7284abS|r|cff6a7a9eh|r|cff617092r|r|cff596785e|r|cff505d78d|r|cff48536bz|r|cff3f495fU|r|cffffffffI|r
+## Version: 1.0
+## Notes: Misc stuff
+
+## Libs and Locales
+libs\Load_Libs.xml
+
+## SharedMedia
+media\Load_Media.lua
+
+## Modules
+modules\Load_Modules.xml

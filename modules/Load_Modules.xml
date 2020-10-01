@@ -1,0 +1,12 @@
+<Ui>
+	<!-- Set pixelperfect UI scale + default CVars -->
+	<Script file="UIScale.lua"/>
+
+	<!-- Blank/Transparent frames to be used over WA uniframes -->
+	<!-- Allows clickable frames without tainting the UI -->
+	<Script file="oUF_Frames.lua"/>
+
+	<!-- Custom DBM skin based on RealUI -->
+	<Include file='DBM_TimerSkin.xml'/>
+	<Script file="DBM_Timer.lua"/>
+</Ui>
