@@ -6,7 +6,4 @@
 	<!-- Allows clickable frames without tainting the UI -->
 	<Script file="oUF_Frames.lua"/>
 
-	<!-- Custom DBM skin based on RealUI -->
-	<Include file='DBM_TimerSkin.xml'/>
-	<Script file="DBM_Timer.lua"/>
 </Ui>
